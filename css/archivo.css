@@ -1,0 +1,11 @@
+img.on{
+    content: url("../imgs/on.gif");
+}
+
+img.off{
+    content: url("../imgs/off.gif");
+}
+
+body.background{
+    background-color: rebeccapurple;
+}
